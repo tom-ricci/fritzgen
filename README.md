@@ -1,5 +1,5 @@
 # fritzgen
-So, I have this friend Fritz who enjoys this game and recently the community has been a bit of a mess, right. Soooo y'know crablang? This is the exact same concept. I'll be touching this repo either never or very little so no guarantees it will work. Honestly I barely even know what this game is about so ¯\\\_\(ツ\)\_\/¯
+So, I have a few friends who enjoys this game and recently the community has been a bit of a mess, right. Soooo y'know crablang? This is the exact same concept. I'll be touching this repo either never or very little so no guarantees it will work. Honestly I barely even know what this game is about so ¯\\\_\(ツ\)\_\/¯
 
 ## Requirements
 - python >= 3.8
